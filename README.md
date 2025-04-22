@@ -15,5 +15,5 @@ I'm a Cloud Engineer, User Experience Advocate, and Serial Volunteer who current
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=LastPatriot&show_icons=true&include_all_commits=true&hide_border=true" alt="Opeyemi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastPatriot&langs_count=8&layout=compact&hide_border=true" alt="Opeyemi's GitHub stats" /> |
 | ------------- | ------------- |
