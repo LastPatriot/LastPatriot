@@ -11,7 +11,7 @@ I'm a Cloud Engineer, User Experience Advocate, and Serial Volunteer who current
 - 🌱 I’m currently learning Cloud Engineering.
 - 😊 I’m looking for help with open source projects and hackathons.
 - 💼 Job interests: Cloud Engineer, System administration or DevOps.
-- 📫 You can [view my resume](#) and contact me by emailing mailto:oluwadareopeyemis1@gmail.com.
+- 📫 You can [view my resume](https://opeyemidare.netlify.app) and contact me by emailing mailto:oluwadareopeyemis1@gmail.com.
 
 ---
 
